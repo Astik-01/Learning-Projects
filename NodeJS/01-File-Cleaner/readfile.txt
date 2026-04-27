@@ -1,0 +1,4 @@
+This     is    a   very      messy   text file.
+It    has      way   too    many       spaces.
+
+My   Node.js    script       will   fix    this!
